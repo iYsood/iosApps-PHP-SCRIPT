@@ -1,3 +1,5 @@
-# iosApps-PHP-SCRIPT
-Simply, after merging the IPA with the certificate and uploading it to one of the download centers,<br>Create a file with a plist extension, <strong>like</strong> the attached file: <code>iosApps.plist</code>
-Just change the data and it will work.
+#سكربت مركز تطبيقات البلس.
+- ببساطة، افتح ملف <code>index.config.php</code> وعدل على البيانات ( title, base URL ) وقم برفع الملفات.
+- بعد دمج تطبيق قم برفعه على مركز تحميل وقم بنسخ محتوى ملف <code>iosApps.plist</code> وبعد ذلك قم بانشاء ملف باسم التطبيق وبامتداد <code>plist</code>. وارفعه على المسار الرئيسي مع الملفات السابقة<br><br>
+
+افتح الصفحة وبالتوفيق
